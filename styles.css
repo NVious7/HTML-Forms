@@ -1,0 +1,20 @@
+body, form {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  margin: 20px;
+  padding: 5px;
+}
+
+input, textarea{
+  display: block;
+  width: 100%;
+  padding: 0;
+}
+
+button {
+  border-radius: 50px;
+  border: 1px solid black;
+}
